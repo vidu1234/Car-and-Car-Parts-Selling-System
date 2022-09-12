@@ -5,4 +5,5 @@ I made this Car & Car Parts Management system in my university's application dev
 
 
 
-![Picture1](https://user-images.githubusercontent.com/65155421/189619272-4236c7ea-e5d6-4e15-801c-97391e68cb15.png)
+![Picture2](https://user-images.githubusercontent.com/65155421/189619754-a085835f-0c4c-4b73-ab4a-9c1decf9bb46.png)
+
