@@ -18,7 +18,7 @@ The ABC Car Trader Application experience starts here, Login to get start
 This Sign In page can be seen the first time you use the application of ABC Car Traders. 
 
 
-<img src="https://user-images.githubusercontent.com/65155421/189623151-e75852b3-e2a0-4fd5-beec-591102a095c9.png" width=800>
+<img src="https://user-images.githubusercontent.com/65155421/189623151-e75852b3-e2a0-4fd5-beec-591102a095c9.png" width=600>
 
 
 •	If you have an existing account, Enter your Username and Password Combinations. Then Press Login.
